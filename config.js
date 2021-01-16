@@ -6,7 +6,7 @@ var config = {
         "Hey BB",
         "Happy Birthday to You",
         "Hope You Become More Cute Yearly",
-        "Every Year is 18 Years Old",
+        "You are 18 years old \n for every year",
         "Here are the message for you only",
         "Thank you for loving me",
         "I love you too, BB",
