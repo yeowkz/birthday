@@ -1,19 +1,32 @@
-// 霸都丶傲天 2019年10月10日 https://github.com/AJLoveChina/birthday
+// origin 霸都丶傲天 2019年10月10日 https://github.com/AJLoveChina/birthday
 var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "心爱的小可爱",  // 同上...
-        "今天是你的生日",
-        "这是我们在一起的",
-        "第三个生日了哦",
-        "去年的生日",
-        "还记得在王婆串串吃的呢",
-        "今年要吃好的喽哦",
-        "要把我家可爱猪猪喂饱饱",
-        "然后抱走",
-        "YAMI~~",
+        "Hey BB",
+        "Happy Birthday to You",
+        "Hope You Become More Cute Yearly",
+        "Every Year is 18 Years Old",
+        "Here are the message for you only",
+        "Thank you for loving me",
+        "I love you too, BB",
+        "我们好久没有见面了",
+        "你要好好照顾自己哦",
+        "我们见面了就一起吃好料吧",
+        "你也要乖乖听话",
+        "当个快乐的乖宝宝",
+        "未来是个未知数",
+        "我们一起努力向上",
+        "克服困难, 迎接挑战",
+        "一起努力让我们的未来变的更好",
+        "你是我的BB",
+        "我爱我的BB",
+        "BB也要更爱我哦",
+        "I miss you",
+        "And miss the time stay with you",
+        "Let's fight for our future",
+        "The End",
+        
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -30,13 +43,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        turn_on: "Let's start !",
+        play: "Play Some Music ~",
+        bannar_coming: "Banner ~",
+        balloons_flying: "Add More Decoration ~",
+        cake_fadein: "Where Is The Cake ?",
+        light_candle: "Light Up Candle !",
+        wish_message: "Happy Birthday to Pei Ling",
+        story: "A Message Received",
     }
 };
